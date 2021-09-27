@@ -1,0 +1,18 @@
+*{
+    background-color: lightgreen;
+}
+#mydiv{
+    width:100px;
+    height: 100px;
+    background-color: aqua;
+    margin: 20px;
+}
+.background{
+    display: flex;
+    justify-content: center;
+}
+#mycanvas{
+
+    background-image: url("Assets/bg.jpg");
+    border:20px solid green;
+}
